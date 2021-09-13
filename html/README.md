@@ -46,3 +46,14 @@ Relative: 相對
 - ul : unordered list(無序清單)
 
 - ol : ordered list(有序清單)
+
+### 表格
+
+colspan:擴展 column
+
+rowspan:擴展 row
+
+讓別人方便分辨
+thand
+tbady
+tfoot
