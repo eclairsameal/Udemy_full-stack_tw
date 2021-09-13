@@ -34,3 +34,15 @@
 ```
 
 alt: 當找不到圖時會顯示設定的說明文字
+
+#### File Path
+
+Absolute: 絕對
+
+Relative: 相對
+
+### 列表
+
+- ul : unordered list(無序清單)
+
+- ol : ordered list(有序清單)
