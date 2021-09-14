@@ -66,6 +66,9 @@ tfoot
 
 method 預設是 get
 
+- get: url 會顯示輸入的資料
+- post: url 不會顯示輸入的資料
+
 ```htmlembedded=
     <label for="name">Name:</label>
     <input id="name" type="text" name="InputName" />
