@@ -47,7 +47,7 @@ Relative: 相對
 
 - ol : ordered list(有序清單)
 
-### 表格
+### table - 表格
 
 colspan:擴展 column
 
@@ -57,3 +57,22 @@ rowspan:擴展 row
 thand
 tbady
 tfoot
+
+## Form
+
+```htmlembedded=
+<form action="" method="">
+```
+
+method 預設是 get
+
+```htmlembedded=
+    <label for="name">Name:</label>
+    <input id="name" type="text" name="InputName" />
+```
+
+label 跟 input 是成對的，for 跟 id 設成一樣可以方便使用者選取。
+
+name: 將輸入值傳到後台
+
+![](https://i.imgur.com/aEn4oPE.png)
